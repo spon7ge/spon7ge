@@ -9,9 +9,10 @@
  - Python
  - Django
 
-Contact
-- Email
-
+🌱 Interests:
+ - Web development.
+- Sports
+- Video Games
 
 <!---
 spon7ge/spon7ge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
