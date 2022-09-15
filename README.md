@@ -2,12 +2,12 @@
  
  Skills
  - HTML/CSS
- -JavaScript
- -React.js
- -Node.js
- -Mongo DB
- -Python
- -Django
+ - JavaScript
+ - React.js
+ - Node.js
+ - Mongo DB
+ - Python
+ - Django
 
 Contact
 - Email
