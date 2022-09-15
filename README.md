@@ -1,6 +1,16 @@
 👋 Hi, my name is Alex Gonzalez and im a self taught Web developer/software engineer. 
- I'm from San Jose, California currently looking for job opportunities as a Web Developer, so feel free to email me here.
-🌱 I’m currently learning reactJS and tailwind CSS
+ 
+ Skills
+ - HTML/CSS
+ -JavaScript
+ -React.js
+ -Node.js
+ -Mongo DB
+ -Python
+ -Django
+
+Contact
+- Email
 
 
 <!---
