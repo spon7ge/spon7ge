@@ -10,7 +10,7 @@
  - Django
 
 🌱 Interests:
- - Web development
+- Web development
 - Sports
 - Video Games
 
