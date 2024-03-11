@@ -1,16 +1,16 @@
-👋 Hi, my name is Alex Gonzalez and im a self taught Web developer/software engineer. 
+👋 Hi, my name is Alex Gonzalez and im a self taught Data Scientist/Software Engineer. 
  
  ⚡ Skills
  - HTML/CSS
  - JavaScript
- - React.js
- - Node.js
+ - SQL
  - Mongo DB
  - Python
  - Django
 
 🌱 Interests:
-- Web development
+- Web development(Backend)
+- Data Anyaltics
 - Sports
 - Video Games
 
