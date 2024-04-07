@@ -1,11 +1,12 @@
 👋 Hi, my name is Alex Gonzalez and im a self taught Data Scientist/Software Engineer. 
  
  ⚡ Skills
- - HTML/CSS
- - JavaScript
+ - HTML/CSS/JavaScript
+ - Java
  - SQL
- - Mongo DB
+ - Jupyter Notebook libraries 
  - Python
+ - Machine learning models 
  - Django
 
 🌱 Interests:
