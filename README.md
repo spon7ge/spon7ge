@@ -3,11 +3,10 @@
  ⚡ Skills
  - HTML/CSS/JavaScript
  - Java
- - SQL
- - Jupyter Notebook libraries 
+ - PostgreSQL
+ - Jupyter Notebook libraries(pandas,numpy,matplotlib,seaborn)
  - Python
- - Machine learning models 
- - Django
+ - Machine learning models
 
 🌱 Interests:
 - Web development(Backend)
