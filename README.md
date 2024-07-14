@@ -16,8 +16,6 @@
 
 💬 Reach me by email or LinkedIn! alexgonzo97@outlook.com | LINK
 
-📫 Visit my website:
-
 
 
 <!---
