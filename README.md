@@ -1,8 +1,6 @@
-👋 Hi, my name is Alex Gonzalez and im a self taught Data Scientist/Software Engineer. 
+👋 Hi, my name is Alex Gonzalez and im a Data Scientist major at Saint Marys College of California. 
  
  ⚡ Skills
- - HTML/CSS/JavaScript
- - Java
  - PostgreSQL
  - Jupyter Notebook libraries(pandas,numpy,matplotlib,seaborn)
  - Python
@@ -14,7 +12,7 @@
 - Sports
 - Video Games
 
-💬 Reach me by email or LinkedIn! alexgonzo97@outlook.com | LINK
+💬 Reach me by email or LinkedIn! alexgonzo33@gmail.com | linkedin.com/in/alex-gonzalez-data/
 
 
 
