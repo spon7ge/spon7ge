@@ -4,7 +4,7 @@
  - PostgreSQL
  - Jupyter Notebook libraries(pandas,numpy,matplotlib,seaborn)
  - Python
- - Machine learning models
+ - Machine learning
 
 🌱 Interests:
 - Web development(Backend)
