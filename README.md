@@ -9,9 +9,9 @@
  - React.js
 
 🌱 Interests:
-- Web development(Backend)
+- Web development (Backend)
 - Data Anyaltics
-- Sports(NBA,NFL)
+- Sports (NBA, NFL)
 - Video Games
 
 💬 Reach me by email or LinkedIn! alexgonzo33@gmail.com | linkedin.com/in/alex-gonzalez-data/
