@@ -1,4 +1,4 @@
-👋 Hi, my name is Alex Gonzalez and im a Data Scientist major at Saint Marys College of California. 
+👋 Hi, my name is Alex Gonzalez and im a data science major at Saint Marys College of California. 
  
  ⚡ Skills
  - PostgreSQL
