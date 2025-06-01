@@ -14,7 +14,7 @@
 - Sports (NBA, NFL)
 - Video Games
 
-💬 Reach me by email or LinkedIn! alexgonzo33@gmail.com | linkedin.com/in/alex-gonzalez-data/
+💬 Reach me by email or LinkedIn! alexgonzo33@gmail.com | linkedin.com/in/alex-gonzalez-data/ | https://spon7ge.github.io/alex-gonzalez/
 
 
 
