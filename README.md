@@ -1,18 +1,14 @@
-👋 Hi, my name is *Alex Gonzalez* and im currently at Saint Marys College of California majoring in data science. 
+👋 Hi, my name is *Alex Gonzalez* and I am currently at Saint Marys College of California studying Data Science. 
  
- ⚡ Skills
- - PostgreSQL, MySQL
- - Jupyter Notebook libraries (pandas,numpy,matplotlib,seaborn)
+ Skills
+ - PostgreSQL
  - Python, JAVA, R
  - Machine learning (supervised & unsupervised learning)
- - HTML/CSS/JS
- - React.js
 
-🌱 Interests:
-- Web development (Backend)
-- Data Anyaltics
-- Sports (NBA, NFL)
+Interests:
+- Sports
 - Video Games
+- Gym
 
 💬 Reach me by email or LinkedIn! alexgonzo33@gmail.com | linkedin.com/in/alex-gonzalez-data/ | https://spon7ge.github.io/alex-gonzalez/
 
