@@ -1,16 +1,104 @@
-👋 Hi, my name is *Alex Gonzalez* and I am currently at Saint Marys College of California studying Data Science. 
- 
- Skills
- - PostgreSQL
- - Python, JAVA, R
- - Machine learning (supervised & unsupervised learning)
+# Hi, I'm Alejandro Gonzalez 👋
 
-Interests:
-- Sports
-- Video Games
-- Gym
+**Software engineer** working across backend services, data pipelines, and ML systems — from ingestion to deployment.
 
-💬 Reach me by email or LinkedIn! alexgonzo33@gmail.com | linkedin.com/in/alex-gonzalez-data/ | https://spon7ge.github.io/alex-gonzalez/
+I build things end-to-end: FastAPI service layers with typed contracts, multi-source scrapers and ETL, XGBoost models with leak-proof validation, and React frontends on top of them. Currently finishing a **BSc in Data Science (Minor in CS)** at Saint Mary's College of California.
+
+📍 Bay Area, CA · 🎓 Class of 2026 · 🔎 Open to software / data / ML engineering roles
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://spon7ge.github.io/alex-gonzalez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-gonzalez-data)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexgonzo33@gmail.com)
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+**Machine Learning**
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/NLP-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### [statvista](https://github.com/spon7ge/statvista)
+*Python · FastAPI · React · TypeScript · Tailwind · Supabase · Docker*
+
+A sports analytics app that unifies live scores, odds, and prop context across multiple leagues, so fans don't have to jump between sites and raw feeds.
+
+- Shipped end-to-end: React/TypeScript UI (league hubs, prop boards, game centers), FastAPI read APIs with typed contracts, and scrapers/ingest into Postgres
+- Unified **8+ live and scraped feeds** — ESPN, MLB Stats, Parlay/Sharp, PrizePicks, Underdog, ProphetX, Pinnacle, RotoWire — into a single application
+- Live 10-second polling with 5-minute odds refresh cycles
+
+### [DFS Prop Predictor](https://spon7ge.github.io/HoopVista/)
+*Python · XGBoost · Hypothesis Testing · Supervised Learning*
+
+Testing whether XGBoost quantile models — combining predicted minutes with per-minute stat rates — can generate profitable probability distributions for player props.
+
+- Built a naive → linear → XGBoost model ladder with leak-proof, date-safe validation
+- Shared library standardizing testing across **4 stat categories and 2 leagues**
+- **27% lower prediction error** vs. baseline (3.75 vs. 5.15 MAE) on a 20K+ game blind holdout (p ≈ 1e-298); caught an overfit tuned model before it shipped
+
+### MLB Research Bot
+*Next.js · FastAPI · PostgreSQL/pgvector · Redis · Docker · OpenAI*
+
+An MLB Q&A app over **130K+ player records** where every statistic is cited from Postgres rather than generated by the model.
+
+- Answers route through **11 allowlisted SQL tools** for verifiable, sourced results
+- **240 tests** across the API and UI, including hallucination cases that retract unsourced numbers
+- 4-service Docker Compose stack deployed via GitHub Actions
+
+---
+
+## 🎓 Education
+
+**Saint Mary's College of California** — Moraga, CA
+BSc in Data Science, Minor in Computer Science · 2026
+
+*Data Structures and Algorithms · Web Development · Object Oriented Programming · Natural Language Processing · Quantitative Analysis · Data Warehousing*
+
+**Tech Club — Vice President** (2025–2026)
+Organized weekly workshops and technical events for 20+ members, and brought in industry guest speakers to share career advice.
+
+---
+
+## 📊 GitHub Stats
+
+![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=spon7ge&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spon7ge&layout=compact&hide_border=true)
+
+---
+
+📫 Reach me at **alexgonzo33@gmail.com** or on [LinkedIn](https://linkedin.com/in/alex-gonzalez-data).
 
 
 <!---
